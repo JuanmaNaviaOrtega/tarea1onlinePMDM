@@ -51,7 +51,7 @@ class MainActivity : AppCompatActivity() {
         }
         return true
     }
-
+ //funcion para obtener el siguiente numero primo
     fun siguientePrimo(num:Int):Int{
         var candidato = num +1
         while(!esprimo(candidato)){

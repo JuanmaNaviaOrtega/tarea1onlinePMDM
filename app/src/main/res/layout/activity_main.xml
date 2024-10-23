@@ -5,14 +5,14 @@
     android:orientation="vertical"
     android:padding="16dp">
 <!-- Crear una ImageView que mostrará una imagen para la APP-->
-    <!-- Crear un EditTExt para que el usuario introduzca el numero positivo -->
+
     <ImageView
         android:id="@+id/imagePrimo"
         android:layout_width="683dp"
         android:layout_height="377dp"
         android:layout_gravity="center"
         android:src="@drawable/primos" />
-
+    <!-- Crear un EditTExt para que el usuario introduzca el numero positivo -->
     <EditText
         android:id="@+id/numberInput"
         android:layout_marginTop="16dp"

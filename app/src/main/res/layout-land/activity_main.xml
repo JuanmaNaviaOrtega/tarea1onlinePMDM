@@ -10,8 +10,6 @@
 
     <!-- Crear una ImageView que mostrará una imagen para la APP-->
 
-    <!-- Crear un EditText para que el usuario introduzca el número positivo -->
-
     <ImageView
         android:id="@+id/imagePrimo"
         android:layout_width="316dp"
@@ -23,6 +21,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <!-- Crear un EditText para que el usuario introduzca el número positivo -->
     <EditText
         android:id="@+id/numberInput"
         android:layout_width="match_parent"
