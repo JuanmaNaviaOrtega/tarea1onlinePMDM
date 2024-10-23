@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+<!-- Crear una ImageView que mostrará una imagen para la APP-->
+    <!-- Crear un EditTExt para que el usuario introduzca el numero positivo -->
+    <ImageView
+        android:id="@+id/imagePrimo"
+        android:layout_width="683dp"
+        android:layout_height="377dp"
+        android:layout_gravity="center"
+        android:src="@drawable/primos" />
+
+    <EditText
+        android:id="@+id/numberInput"
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:hint="Introduce un número positivo" />
+<!--Crear un Button para que haga la accion de calcular el primer numero primo superior -->
+    <Button
+        android:id="@+id/calculateButton"
+        android:layout_width="wrap_content"
+        android:layout_height="67dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:text="Obtener primer numero primo superior" />
+<!--Crear un TextView Para mostrar el resultado -->
+
+    <TextView
+        android:id="@+id/textViewResultado"
+        android:layout_width="wrap_content"
+        android:layout_height="93dp"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:text="El resultado aparecerá aquí"
+        android:layout_marginTop="16dp"
+        android:textSize="25dp" />
+
+</LinearLayout>
