@@ -15,12 +15,11 @@ La aplicación consiste en que el usuario introduzca un numero positivo por pant
 En vertical
 
 
-
-<img width="143" alt="Capturavertical" src="./img/Capturavertical.PNG">
+<img width="143" alt="Capturavertical" src="./app/img/Capturavertical.PNG">
 
 En Horizontal
 
-<img width="498" alt="CapturaHorizontal" src="./img/CapturaHorizontal.PNG">
+<img width="498" alt="CapturaHorizontal" src="./app/img/CapturaHorizontal.PNG">
 
 ##Requisitos
 - Android Studio
