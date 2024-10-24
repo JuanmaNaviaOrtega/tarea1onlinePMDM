@@ -16,11 +16,11 @@ En vertical
 
 
 
-<img width="143" alt="Capturavertical" src="https://github.com/user-attachments/assets/fdf90fd1-88a6-44f1-9575-ca84bacba482">
+<img width="143" alt="Capturavertical" src="./img/Capturavertical.PNG">
 
 En Horizontal
 
-<img width="498" alt="CapturaHorizontal" src="https://github.com/user-attachments/assets/4cf6207b-d2ce-4bfb-beea-69079b8a40cc">
+<img width="498" alt="CapturaHorizontal" src="./img/CapturaHorizontal.PNG">
 
 ##Requisitos
 - Android Studio
